@@ -17,9 +17,5 @@ int top (item*);
 int posicao (item*, int);
 void retirar (item*, int);
 
-void media(item *); 
-
-
-
 #endif	/* PILHA_H */
 
